@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Work",
+    "color": "#5B47E0",
+    "order": 0
+  },
+  {
+    "id": "2",
+    "name": "Development",
+    "color": "#22C55E",
+    "order": 1
+  },
+  {
+    "id": "3",
+    "name": "Personal",
+    "color": "#FFB547",
+    "order": 2
+  },
+  {
+    "id": "4",
+    "name": "Health",
+    "color": "#EF4444",
+    "order": 3
+  },
+  {
+    "id": "5",
+    "name": "Learning",
+    "color": "#8B7FE8",
+    "order": 4
+  }
+]
